@@ -72,5 +72,5 @@
 
 ## Ссылки
 
-Доклад Фила Дельгядо:	[Design review и другие друзья разработчика](https://www.youtube.com/watch?v=AOgXt1AH61k).
+Доклад Фила Дельгядо:	[Одна голова хорошо, а две — лучше](https://www.youtube.com/watch?v=EaLtDnTgBis).
 
